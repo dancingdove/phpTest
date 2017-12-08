@@ -19,7 +19,7 @@ if (isset($_GET["userid"]) && isset($_GET["temperature"])) {
         if ($result) {
             print "1";
         } else {
-            print "2";
+            print "3";
         }
     }
 
